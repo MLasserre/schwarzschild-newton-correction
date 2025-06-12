@@ -14,7 +14,7 @@ account for.
 
 The project includes an **analytical study** of the corrected equations and a
 **numerical simulation** of Mercury's orbit using **Runge–Kutta methods**, 
-in both **C**.
+in **C**.
 
 ---
 
