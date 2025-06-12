@@ -20,5 +20,5 @@ in both **C**.
 
 ### 📎 View the full report
 
-[📄 **Read the full PDF**](doc/report.pdf)
+[📄 **Read the full PDF**](report.pdf)
 
